@@ -31,3 +31,7 @@ More tutorial for modding soon.
 
 ![ghostblade](https://user-images.githubusercontent.com/47526527/236973708-6b81bda7-b58b-4f31-982d-f97ce4eb3425.jpg)
 ![ghostblade2](https://user-images.githubusercontent.com/47526527/236973720-6b094bd1-4e93-463b-b47b-46ce70445197.jpg)
+
+GAMEPLAY:
+
+[![GAMEPLAY](https://img.youtube.com/vi/F1yGwyw5B2Y/0.jpg)](https://www.youtube.com/watch?v=F1yGwyw5B2Y)
